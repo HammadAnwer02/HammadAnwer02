@@ -28,9 +28,10 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HammadAnwer&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HammadAnwer02&show_icons=true&theme=tokyonight" height="160"/>
+   <img src="(https://streak-stats.demolab.com/?user=HammadAnwer02&theme=tokyonight&show_icons=true&theme=tokyonight" height="160"/>
 </p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=HammadAnwer&theme=tokyonight)
+
 
 
 
